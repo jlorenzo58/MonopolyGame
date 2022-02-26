@@ -1,0 +1,19 @@
+*{
+    background-color:rgb(166, 216, 247);
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    width: 50%;
+  }
+  .container1{
+    text-align: center;  
+    border: 7px;
+    padding-top: 5px;  
+  }
+  #button1{
+    background-color:rgba(235, 41, 41, 0.897);
+    font-size: 25px; 
+  }
