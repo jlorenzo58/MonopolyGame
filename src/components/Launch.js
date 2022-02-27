@@ -16,7 +16,7 @@ const Launch = () =>{
     return(
         <Fragment>
             <img src="https://i.imgur.com/JhyDh0M.png" class="center" width="50%" alt ="monopoly" /> 
-            <div class="container1">
+            <div className="container1">
                 <button class="center" id="button1" onClick={routeChange}> CREATE NEW GAME </button>
             </div>
             <br />
