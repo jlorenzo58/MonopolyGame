@@ -4,7 +4,7 @@ const AddPlayers = () =>{
 
     return(
         <Fragment>
-        hello world from addplayers
+            
         </Fragment>
     );
 }
